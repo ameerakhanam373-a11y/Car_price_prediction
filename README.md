@@ -1,4 +1,4 @@
-# Car Price Estimator — Task 18
+# Car Price Estimator 
 
 This project follows the supplied brief: clean the car data, perform EDA, fit a multiple linear regression model, report holdout metrics, and offer predictions through Gradio.
 
