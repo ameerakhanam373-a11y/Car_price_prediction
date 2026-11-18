@@ -1,0 +1,61 @@
+Car_Age,Mileage,Brand,Fuel_Type,Selling_Price
+5,"21,14 km",Hyundai,CNG,435362
+4,"23,152 km",Hyundia,,997079
+8,"13,921 km",Hyundai,Diesel,864076
+8,"14,900 km",Maruti,CNG,
+7,"16,243 km",Hyundai,Electric,680761
+3,"15,522 km",Hyundai,CNG,1497286
+1,"24,196 km",Ford,CNG,420984
+1,"25,103 km",Ford,Electric,464512
+3,"14,983 km",Ford,CNG,801863
+6,"20,376 km",Hyundai,Electric,1486125
+7,"11,972 km",Hyundai,Electric,648982
+6,"19,623 km",BMW,Diesel,1372622
+6,"20,203 km",Honda,Petrol,606619
+6,"18,142 km",Hyundai,Diesel,1280673
+3,"19,233 km",Maruti,Petrol,1196161
+6,"14,884 km",Hyundai,Diesel,866326
+8,"14,783 km",Ford,Electric,849150
+2,"15,743 km",BMW,Petrol,1478805
+5,"14,967 km",Honda,Diesel,318834
+1,"19,805 km",Maruti,Diesel,1342424
+1,"25,481 km",Ford,Electric,1301497
+5,"25,608 km",Hyundai,CNG,905086
+3,"25,688 km",Honda,Diesel,484821
+4,"22,147 km",Hyundai,CNG,255609
+3,"23,895 km",Honda,Electric,9999999
+1,"13,575 km",Maruti,Petrol,1174165
+1,"15,845 km",BMW,Electric,1279600
+5,,Honda,Diesel,1225715
+6,unknown,BMW,Electric,1318889
+3,"14,111 km",Maruti,Diesel,384078
+9,"19,883 km",Maruti,Diesel,661243
+5,"16,36 km",Honda,Petrol,1362208
+8,"15,172 km",Hyundai,CNG,1197639
+1,"15,128 km",BMW,Petrol,451451
+5,"18,992 km",bmw,Diesel,203051
+3,"18,000km",Ford,Diesel,1204646
+1,"19,132 km",Ford,Diesel,1171525
+4,"15,645 km",Hyundai,Electric,389407
+5,"12,23 km",Maruti,Electric,649395
+7,"21,312 km",Maruti,Electric,0
+1,"18,284 km",Honda,Petrol,662894
+3,"19,349 km",BMW,Petrol,1460386
+2,"15,120 km",BMW,CNG,1157238
+9,"16,555 km",Maruti,Electric,927975
+6,"21,588 km",BMW,CNG,273523
+3,"24,236 km",Ford,PETROL,1343052
+8,20 km,Hyundai,Petrol,1482417
+8,"12,267 km",Hyundai,CNG,1003451
+2,"15,640 km",Maruti,Electric,1229225
+6,"16,727 km",Ford,Petrol,ten lakh
+7,"19,983 km", maruti ,Diesel,422866
+2,"13,388 km",BMW,Petrol,1335248
+2,"24,493 km",Ford,Electric,228251
+1,"14,541 km",Ford,CNG,1280793
+8,"25,971 km",BMW,Diesel,1256884
+1,"12,855 km",FORD,Petrol,383062
+9,"15,500 km",Maruti,Electric,594366
+6,"15,416 km",Hyundai,Diesel,944840
+7,"12,501 km",Honda,CNG,300235
+7,"16,228 km",BMW,diesel,1323316
