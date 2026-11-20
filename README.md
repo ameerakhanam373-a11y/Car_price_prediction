@@ -2,6 +2,10 @@
 
 This project follows the supplied brief: clean the car data, perform EDA, fit a multiple linear regression model, report holdout metrics, and offer predictions through Gradio.
 
+## What I built
+
+Created a prediction app with Gradio so users can enter data and receive a model prediction through a simple interface.
+
 ## Files
 
 - `Car Prices Data.csv` — supplied source data
@@ -24,6 +28,10 @@ python app.py
 Open the local Gradio URL printed in the terminal. The model imputes missing predictors within a scikit-learn pipeline, one-hot encodes brand and fuel type, and trains only on rows with valid positive prices. A Tukey IQR fence excludes extreme target outliers. The holdout metrics are reported in the app. The dataset contains only about 60 rows, so predictions are a learning demonstration rather than reliable market valuations.
 
 The Gradio interface has a teal and violet palette, a dedicated estimate card, and compact holdout metric cards.
+
+## Project summary
+
+This project demonstrates how to connect a machine learning model to an interactive web interface. Add the model’s purpose, input features, and evaluation result here so readers know what it predicts and how well it performed.
 
 ## Cleaning choices
 
